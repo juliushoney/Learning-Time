@@ -1,0 +1,6 @@
+title: Living It Up
+description: having a good time on a budget 
+
+remote_theme: pages-themes/cayman@v0.2.0 # Establishes a theme
+plugins:
+- jekyll-remote-theme
