@@ -2,7 +2,7 @@
 title: The Yellow Brick Road Leads Too
 layout: default
 ---
-
+![A pink axolotl in a tank](axolotl.jpg)
 
 ## Learning Time
 
