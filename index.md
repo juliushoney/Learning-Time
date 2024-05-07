@@ -2,7 +2,7 @@
 title: The Yellow Brick Road Leads Too
 layout: default
 ---
-![A pink axolotl in a tank](axolotl.jpg)
+![Legacy Weekend] ("C:\Users\nhendrix\OneDrive - brynmawr.edu\Desktop\Legacy_Day-Class of 2024.jpg")
 
 ## Learning Time
 
