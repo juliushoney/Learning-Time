@@ -1,4 +1,4 @@
-## About
+## Learning Time
 
 ## Who We Are 
 
