@@ -1,5 +1,5 @@
 ---
-title: The Yellow Brick Road Leads Too
+title: Stories of Perry
 layout: default
 ---
 ![Legacy Weekend](LegacyDay074.jpg)
