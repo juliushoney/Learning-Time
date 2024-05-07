@@ -1,6 +1,5 @@
 ## Learning Time
-![Bryn Mawr College] (https://images.app.goo.gl/XpynhotqBnURNB3k9)
-
+![A pink axolotl in a tank](axolotl.jpg)
 ## Who We Are 
 
 ## Our Mission 
