@@ -3,7 +3,7 @@
 ## Who We Are 
 
 ## Our Mission 
-[Contact me](#contact-information)
+
 
 ## Bio
 
@@ -11,4 +11,5 @@ Information about me.
 
 ## Projects
 
-## Contact Information
+
+[Contact me](#contact-information)
